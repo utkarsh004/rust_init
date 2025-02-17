@@ -11,7 +11,7 @@ fn main() {
     loop {
         println!("\nSimple To-Do App");
         println!("1. Add Task");
-        println!("2. View Tasks");
+        println!("2. View all Tasks");
         println!("3. Exit");
 
         let mut choice = String::new();
